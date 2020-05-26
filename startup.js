@@ -1,8 +1,13 @@
 load_code("PartyLogic");
 load_code("XPTimers");
 load_code("Travel");
+load_code("GameDataR");
 
 startXPTimer();
+
+// Connect game data r
+Connect();
+StartSending();
 
 function on_cm(name,data)
 {
@@ -23,6 +28,14 @@ function on_cm(name,data)
 	if(data.type == "GiveItems")
 	{
 		giveMoneyItems();
+	}
+}
+
+function on_party_invite(name) // called by the inviter's name
+{
+	if(name == "WarriorS")
+	{
+		accept_party_invite(name)
 	}
 }
 

@@ -104,6 +104,7 @@ function startPriestLogic()
 		try_heal_player("WarriorS");
 		try_heal_player("PriestS");
 		try_heal_player("MageS");
+		try_heal_player("MoneyS");
 
 		var target=get_targeted_monster();
 		if(!target)
@@ -137,14 +138,14 @@ function startPriestLogic()
 
 function potionLogic()
 {
-	if(character.max_hp - character.hp > 500)
-	{
-		tryUseHPPot();
-	}
-
 	if(character.max_mp - character.mp > 500)
 	{
 		tryUseMPPot();
+	}
+
+	if(character.max_hp - character.hp > 500)
+	{
+		tryUseHPPot();
 	}
 }
 
@@ -239,5 +240,12 @@ function startDraculPatrol()
 			++patrolIdx;
 			patrolIdx = patrolIdx % patrolPoints.length;
 
-	}, 30 * 1000 /* every 30 seconds patrol */)	
+	}, 60 * 1000 /* every 60 seconds patrol */)	
+}
+
+function inviteTheBoys()
+{
+	send_party_invite("MageS");
+	send_party_invite("PriestS");
+	send_party_invite("MoneyS");
 }

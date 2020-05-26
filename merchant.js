@@ -25,6 +25,32 @@ function distributePotions()
 	return runEvents([new DistributePotionsEvent()]);
 }
 
+function bankItems()
+{
+	for(var i=0;i<character.items.length;i++)
+	{
+		if(character.items[i] && !character.items[i].name.includes("scroll") && !character.items[i].name.includes("stand"))
+		{
+			bank_store(i);
+		}
+	}
+}
+
+function withdrawCompoundables()
+{
+	for (const pack in character.bank) {
+		for (const i in character.bank[pack]) {
+			const item = character.bank[pack][i];
+
+			if(item == null) continue;
+
+			if(G.items[item.name].compound)
+			{
+				parent.socket.emit("bank",{operation:"swap", pack:pack, str:i, inv:-1});
+			}
+		}
+	}
+}
 
 function locate_item(name)
 {

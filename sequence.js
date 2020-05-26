@@ -140,12 +140,19 @@ class DistributePotionsEvent extends InstantSequentialEvent
 	{
 		super(() => 
 		{
-			// All the hp pots the the warrior
-			send_item("WarriorS", locate_item("hpot0"), return_item("hpot0").q);
+			game_log("distributing pots!");
+
+			// Split up hp pots
+			var numHPPots = return_item("hpot0").q;
+			var numMPPots = return_item("mpot0").q;
+			send_item("WarriorS", locate_item("hpot0"), numHPPots/3);
+			send_item("PriestS", locate_item("hpot0"), numHPPots/3);
+			send_item("MageS", locate_item("hpot0"), numHPPots/3);
 		
 			// Split the mp pots between the priest and the mage
-			send_item("PriestS", locate_item("mpot0"), return_item("mpot0").q / 4);
-			send_item("MageS", locate_item("mpot0"), return_item("mpot0").q);
+			send_item("PriestS", locate_item("mpot0"), 3 * numMPPots / 8);
+			send_item("MageS", locate_item("mpot0"), numMPPots / 2);
+			send_item("MageS", locate_item("mpot0"), numMPPots / 8);
 		});
 	}
 }
