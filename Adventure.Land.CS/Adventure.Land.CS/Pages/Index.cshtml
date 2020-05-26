@@ -1,0 +1,94 @@
+﻿@page
+<div class="container" id="charactersContainer">
+</div>
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/jquery/jquery-3.5.1.min.js"></script>
+<script src="~/js/items.js"></script>
+<script src="~/js/gamedata.js"></script>
+
+<div class="commands" id="commands">
+    </br>
+    <div id="commands_travel">
+        <h2>Go to</h2>
+    </div>
+    </br>
+    <div id="commands_action">
+        <h2>Actions</h2>
+    </div>
+    </br>
+    <div id="commands_craft">
+        <h2>Crafting</h2>
+    </div>
+</div>
+
+<template>
+    <div class="CharacterPaneContainer" id="characterPaneContainer" >
+        <div class="cpTopPart" id="topPart">
+            <div class="cpLevel" id="level">
+                <div class="cpPerHrXp" id="perHrXp">
+
+                </div>
+            </div>
+            <div class="cpName" id="name">
+
+            </div>
+        </div>
+        <div class="cpMiddlePart" id="middlePart">
+            <div class="cpPlayerPane" id="playerPane">
+                <div class="cpPlayerAvatar" id="playerAvatar">
+                    <div class="cpLocation" id="location">
+
+                    </div>
+                    <div class="cpStatusContainer" id="statusContainer">
+                        <div class="cpGoldStats" id="goldStats">
+                            <div class="cpGoldPerHr" id="goldPerHr">
+
+                            </div>
+                            <div class="cpTotalGold" id="totalGold">
+
+                            </div>
+                        </div>
+                        <div class="cpPotionStats" id="potionStats">
+                            <div class="cpHpPots" id="hpPots">
+
+                            </div>
+                            <div class="cpMpPots" id="mpPots">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="cpHPMPBars" id="hpmpBars">
+                    <div class="cphpBarContainer" id="hpBarContainer">
+                        <div class="cpHPBar" id="hpBar">
+
+                        </div>
+                    </div>
+                    <div class="cpMPBarContainer" id="mpBarContainer">
+                        <div class="cpMPBar" id="mpBar">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="cpTargetPane" id="targetPane">
+                <div class="cpTargetHPContainer" id="targetHpContainer">
+                    <div class="cpTargetHP" id="targetHp">
+
+                    </div>
+                </div>
+                <div class="cpTargetName" id="targetName">
+
+                </div>
+            </div>
+        </div>
+        <div class="cpBottomPart" id="bottomPart">
+            <div class="cpCompoundablesContainer" id="compoundablesContainer">
+
+            </div>
+            <div class="cpNoteworthyItemsContainer" id="noteworthyItemsContainer">
+
+            </div>
+        </div>
+    </div>
+</template>

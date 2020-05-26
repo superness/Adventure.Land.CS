@@ -1,0 +1,3017 @@
+﻿[
+  {
+    "name": "harbringer",
+    "x": 7,
+    "y": 10
+  },
+  {
+    "name": "shade_tome",
+    "x": 2,
+    "y": 114
+  },
+  {
+    "name": "code",
+    "x": 0,
+    "y": 10
+  },
+  {
+    "name": "dexamulet",
+    "x": 10,
+    "y": 19
+  },
+  {
+    "name": "gold",
+    "x": 15,
+    "y": 26
+  },
+  {
+    "name": "tshirt1",
+    "x": 3,
+    "y": 38
+  },
+  {
+    "name": "run_snippet3",
+    "x": 9,
+    "y": 10
+  },
+  {
+    "name": "run_snippet2",
+    "x": 7,
+    "y": 10
+  },
+  {
+    "name": "run_snippet1",
+    "x": 5,
+    "y": 10
+  },
+  {
+    "name": "run_snippet0",
+    "x": 3,
+    "y": 10
+  },
+  {
+    "name": "firestaff_r",
+    "x": 3,
+    "y": 58
+  },
+  {
+    "name": "run_snippet4",
+    "x": 11,
+    "y": 10
+  },
+  {
+    "name": "wshoes",
+    "x": 0,
+    "y": 46
+  },
+  {
+    "name": "poison",
+    "x": 8,
+    "y": 21
+  },
+  {
+    "name": "jacko",
+    "x": 12,
+    "y": 38
+  },
+  {
+    "name": "rfur",
+    "x": 14,
+    "y": 51
+  },
+  {
+    "name": "gm",
+    "x": 4,
+    "y": 6
+  },
+  {
+    "name": "pumpkinspice",
+    "x": 9,
+    "y": 21
+  },
+  {
+    "name": "hboots",
+    "x": 4,
+    "y": 5
+  },
+  {
+    "name": "sshield",
+    "x": 1,
+    "y": 12
+  },
+  {
+    "name": "emptyheart",
+    "x": 13,
+    "y": 39
+  },
+  {
+    "name": "mrboots",
+    "x": 7,
+    "y": 46
+  },
+  {
+    "name": "ring220",
+    "x": 1,
+    "y": 10
+  },
+  {
+    "name": "fireblade_r",
+    "x": 1,
+    "y": 58
+  },
+  {
+    "name": "resistancering",
+    "x": 13,
+    "y": 16
+  },
+  {
+    "name": "cupid",
+    "x": 14,
+    "y": 29
+  },
+  {
+    "name": "candycane",
+    "x": 4,
+    "y": 29
+  },
+  {
+    "name": "armorbox",
+    "x": 1,
+    "y": 26
+  },
+  {
+    "name": "rattail",
+    "x": 11,
+    "y": 50
+  },
+  {
+    "name": "evasionscroll",
+    "x": 10,
+    "y": 23
+  },
+  {
+    "name": "warmscarf",
+    "x": 0,
+    "y": 20
+  },
+  {
+    "name": "candy1",
+    "x": 12,
+    "y": 29
+  },
+  {
+    "name": "candy0",
+    "x": 13,
+    "y": 29
+  },
+  {
+    "name": "goldbooster",
+    "x": 4,
+    "y": 27
+  },
+  {
+    "name": "snring",
+    "x": 1,
+    "y": 20
+  },
+  {
+    "name": "armorring",
+    "x": 12,
+    "y": 16
+  },
+  {
+    "name": "pmace",
+    "x": 4,
+    "y": 10
+  },
+  {
+    "name": "rednose",
+    "x": 10,
+    "y": 0
+  },
+  {
+    "name": "shade_cscroll",
+    "x": 1,
+    "y": 24
+  },
+  {
+    "name": "essenceofdarkness",
+    "x": 11,
+    "y": 34
+  },
+  {
+    "name": "wingedboots",
+    "x": 10,
+    "y": 5
+  },
+  {
+    "name": "tshirt7",
+    "x": 9,
+    "y": 38
+  },
+  {
+    "name": "ghatp",
+    "x": 4,
+    "y": 0
+  },
+  {
+    "name": "orangeorb",
+    "x": 11,
+    "y": 28
+  },
+  {
+    "name": "easterluck",
+    "x": 2,
+    "y": 0
+  },
+  {
+    "name": "outputscroll",
+    "x": 7,
+    "y": 41
+  },
+  {
+    "name": "snakeoil",
+    "x": 15,
+    "y": 28
+  },
+  {
+    "name": "skill_4fingers",
+    "x": 5,
+    "y": 2
+  },
+  {
+    "name": "dexbelt",
+    "x": 13,
+    "y": 3
+  },
+  {
+    "name": "hpbelt",
+    "x": 10,
+    "y": 3
+  },
+  {
+    "name": "mrpants",
+    "x": 7,
+    "y": 45
+  },
+  {
+    "name": "shade_elixir",
+    "x": 12,
+    "y": 40
+  },
+  {
+    "name": "shade_amulet",
+    "x": 12,
+    "y": 31
+  },
+  {
+    "name": "t2stramulet",
+    "x": 11,
+    "y": 19
+  },
+  {
+    "name": "orbofdex",
+    "x": 1,
+    "y": 48
+  },
+  {
+    "name": "skill_mcourage",
+    "x": 0,
+    "y": 5
+  },
+  {
+    "name": "skill_supershot",
+    "x": 0,
+    "y": 2
+  },
+  {
+    "name": "cape0",
+    "x": 0,
+    "y": 6
+  },
+  {
+    "name": "cape1",
+    "x": 6,
+    "y": 6
+  },
+  {
+    "name": "skill_cleave",
+    "x": 2,
+    "y": 1
+  },
+  {
+    "name": "leather",
+    "x": 6,
+    "y": 25
+  },
+  {
+    "name": "run_code",
+    "x": 1,
+    "y": 10
+  },
+  {
+    "name": "nheart",
+    "x": 10,
+    "y": 40
+  },
+  {
+    "name": "flute",
+    "x": 14,
+    "y": 26
+  },
+  {
+    "name": "mittens",
+    "x": 8,
+    "y": 29
+  },
+  {
+    "name": "pball",
+    "x": 1,
+    "y": 1
+  },
+  {
+    "name": "gloves",
+    "x": 2,
+    "y": 2
+  },
+  {
+    "name": "mcgloves",
+    "x": 8,
+    "y": 44
+  },
+  {
+    "name": "goldbooster_a",
+    "x": 5,
+    "y": 27
+  },
+  {
+    "name": "5bucks",
+    "x": 8,
+    "y": 36
+  },
+  {
+    "name": "intring",
+    "x": 15,
+    "y": 15
+  },
+  {
+    "name": "carrotsword",
+    "x": 11,
+    "y": 30
+  },
+  {
+    "name": "orb20",
+    "x": 4,
+    "y": 6
+  },
+  {
+    "name": "mcpants",
+    "x": 8,
+    "y": 45
+  },
+  {
+    "name": "scroll4",
+    "x": 4,
+    "y": 24
+  },
+  {
+    "name": "helmet1",
+    "x": 3,
+    "y": 0
+  },
+  {
+    "name": "scroll2",
+    "x": 14,
+    "y": 23
+  },
+  {
+    "name": "scroll3",
+    "x": 3,
+    "y": 24
+  },
+  {
+    "name": "scroll0",
+    "x": 13,
+    "y": 23
+  },
+  {
+    "name": "scroll1",
+    "x": 12,
+    "y": 23
+  },
+  {
+    "name": "shade_mainhand",
+    "x": 5,
+    "y": 31
+  },
+  {
+    "name": "greenbomb",
+    "x": 11,
+    "y": 32
+  },
+  {
+    "name": "lbelt",
+    "x": 2,
+    "y": 3
+  },
+  {
+    "name": "daggerofthedead",
+    "x": 15,
+    "y": 7
+  },
+  {
+    "name": "stonekey",
+    "x": 9,
+    "y": 35
+  },
+  {
+    "name": "up",
+    "x": 11,
+    "y": 6
+  },
+  {
+    "name": "shade20_orb",
+    "x": 2,
+    "y": 25
+  },
+  {
+    "name": "egg1",
+    "x": 1,
+    "y": 30
+  },
+  {
+    "name": "critscroll",
+    "x": 3,
+    "y": 41
+  },
+  {
+    "name": "pants1",
+    "x": 3,
+    "y": 4
+  },
+  {
+    "name": "hammer",
+    "x": 12,
+    "y": 10
+  },
+  {
+    "name": "basketofeggs",
+    "x": 10,
+    "y": 30
+  },
+  {
+    "name": "blue",
+    "x": 13,
+    "y": 36
+  },
+  {
+    "name": "elixirluck",
+    "x": 15,
+    "y": 31
+  },
+  {
+    "name": "use_hp",
+    "x": 2,
+    "y": 7
+  },
+  {
+    "name": "stats",
+    "x": 4,
+    "y": 6
+  },
+  {
+    "name": "fclaw",
+    "x": 3,
+    "y": 11
+  },
+  {
+    "name": "whiskey",
+    "x": 15,
+    "y": 36
+  },
+  {
+    "name": "skill_warcry",
+    "x": 6,
+    "y": 1
+  },
+  {
+    "name": "ornament",
+    "x": 2,
+    "y": 29
+  },
+  {
+    "name": "dexring",
+    "x": 14,
+    "y": 15
+  },
+  {
+    "name": "placeholder_m",
+    "x": 15,
+    "y": 24
+  },
+  {
+    "name": "t2dexamulet",
+    "x": 13,
+    "y": 19
+  },
+  {
+    "name": "cscroll3",
+    "x": 2,
+    "y": 24
+  },
+  {
+    "name": "goldscroll",
+    "x": 10,
+    "y": 41
+  },
+  {
+    "name": "mbones",
+    "x": 1,
+    "y": 59
+  },
+  {
+    "name": "mwpants",
+    "x": 3,
+    "y": 45
+  },
+  {
+    "name": "staff",
+    "x": 2,
+    "y": 10
+  },
+  {
+    "name": "strbelt",
+    "x": 11,
+    "y": 3
+  },
+  {
+    "name": "pants",
+    "x": 2,
+    "y": 4
+  },
+  {
+    "name": "textures",
+    "x": "stand0_texture",
+    "y": "standx_texture"
+  },
+  {
+    "name": "skill_mshield",
+    "x": 0,
+    "y": 11
+  },
+  {
+    "name": "lifestealscroll",
+    "x": 1,
+    "y": 41
+  },
+  {
+    "name": "essenceofnature",
+    "x": 8,
+    "y": 34
+  },
+  {
+    "name": "throwingstars",
+    "x": 4,
+    "y": 9
+  },
+  {
+    "name": "qubics",
+    "x": 0,
+    "y": 36
+  },
+  {
+    "name": "skill_corrosion",
+    "x": 4,
+    "y": 4
+  },
+  {
+    "name": "ale",
+    "x": 10,
+    "y": 36
+  },
+  {
+    "name": "scythe",
+    "x": 12,
+    "y": 7
+  },
+  {
+    "name": "forscroll",
+    "x": 8,
+    "y": 41
+  },
+  {
+    "name": "crossbow",
+    "x": 6,
+    "y": 9
+  },
+  {
+    "name": "merry",
+    "x": 14,
+    "y": 9
+  },
+  {
+    "name": "xptome",
+    "x": 14,
+    "y": 27
+  },
+  {
+    "name": "bronzenugget",
+    "x": 5,
+    "y": 35
+  },
+  {
+    "name": "feather0",
+    "x": 1,
+    "y": 33
+  },
+  {
+    "name": "placeholder",
+    "x": 3,
+    "y": 1
+  },
+  {
+    "name": "hgloves",
+    "x": 4,
+    "y": 2
+  },
+  {
+    "name": "warpvest",
+    "x": 10,
+    "y": 1
+  },
+  {
+    "name": "eggnog",
+    "x": 0,
+    "y": 29
+  },
+  {
+    "name": "stand0",
+    "x": 14,
+    "y": 24
+  },
+  {
+    "name": "shade_belt",
+    "x": 4,
+    "y": 3
+  },
+  {
+    "name": "vblood",
+    "x": 0,
+    "y": 22
+  },
+  {
+    "name": "coat20",
+    "x": 2,
+    "y": 4
+  },
+  {
+    "name": "lichteaser",
+    "x": 47,
+    "y": 0
+  },
+  {
+    "name": "dexearring",
+    "x": 8,
+    "y": 17
+  },
+  {
+    "name": "xshield",
+    "x": 6,
+    "y": 12
+  },
+  {
+    "name": "skill_charge",
+    "x": 5,
+    "y": 1
+  },
+  {
+    "name": "bow",
+    "x": 0,
+    "y": 9
+  },
+  {
+    "name": "essenceoffire",
+    "x": 9,
+    "y": 34
+  },
+  {
+    "name": "amulet20",
+    "x": 4,
+    "y": 8
+  },
+  {
+    "name": "pico",
+    "x": 12,
+    "y": 36
+  },
+  {
+    "name": "wine",
+    "x": 14,
+    "y": 36
+  },
+  {
+    "name": "shade_scroll",
+    "x": 14,
+    "y": 23
+  },
+  {
+    "name": "skill_shadowstrike",
+    "x": 8,
+    "y": 3
+  },
+  {
+    "name": "xpbooster_a",
+    "x": 3,
+    "y": 27
+  },
+  {
+    "name": "intscroll",
+    "x": 8,
+    "y": 23
+  },
+  {
+    "name": "emptyjar",
+    "x": 14,
+    "y": 35
+  },
+  {
+    "name": "frankypants",
+    "x": 11,
+    "y": 4
+  },
+  {
+    "name": "skill_alchemy",
+    "x": 9,
+    "y": 0
+  },
+  {
+    "name": "hpants",
+    "x": 4,
+    "y": 4
+  },
+  {
+    "name": "licence",
+    "x": 2,
+    "y": 23
+  },
+  {
+    "name": "spear",
+    "x": 3,
+    "y": 7
+  },
+  {
+    "name": "stoneofxp_a",
+    "x": 12,
+    "y": 114
+  },
+  {
+    "name": "mrgloves",
+    "x": 7,
+    "y": 44
+  },
+  {
+    "name": "swirlipop",
+    "x": 15,
+    "y": 32
+  },
+  {
+    "name": "mphat",
+    "x": 5,
+    "y": 42
+  },
+  {
+    "name": "tshirt9",
+    "x": 11,
+    "y": 38
+  },
+  {
+    "name": "skill_stomp",
+    "x": 3,
+    "y": 1
+  },
+  {
+    "name": "glitch",
+    "x": 9,
+    "y": 24
+  },
+  {
+    "name": "tshirt8",
+    "x": 10,
+    "y": 38
+  },
+  {
+    "name": "skill_light",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "bataxe",
+    "x": 2,
+    "y": 8
+  },
+  {
+    "name": "bunnyears",
+    "x": 12,
+    "y": 30
+  },
+  {
+    "name": "belt",
+    "x": 2,
+    "y": 3
+  },
+  {
+    "name": "skill_entangle",
+    "x": 8,
+    "y": 0
+  },
+  {
+    "name": "fsword_r",
+    "x": 5,
+    "y": 58
+  },
+  {
+    "name": "skill_poisonarrow",
+    "x": 3,
+    "y": 2
+  },
+  {
+    "name": "seashell",
+    "x": 5,
+    "y": 25
+  },
+  {
+    "name": "funtoken",
+    "x": 9,
+    "y": 32
+  },
+  {
+    "name": "swordofthedead",
+    "x": 15,
+    "y": 8
+  },
+  {
+    "name": "skill_quickstab",
+    "x": 3,
+    "y": 3
+  },
+  {
+    "name": "stoneofluck",
+    "x": 10,
+    "y": 114
+  },
+  {
+    "name": "mrnarmor",
+    "x": 6,
+    "y": 43
+  },
+  {
+    "name": "mmshoes",
+    "x": 4,
+    "y": 46
+  },
+  {
+    "name": "shield20",
+    "x": 3,
+    "y": 11
+  },
+  {
+    "name": "hhelmet",
+    "x": 4,
+    "y": 0
+  },
+  {
+    "name": "mwarmor",
+    "x": 3,
+    "y": 43
+  },
+  {
+    "name": "wgloves",
+    "x": 0,
+    "y": 44
+  },
+  {
+    "name": "tshirt0",
+    "x": 2,
+    "y": 38
+  },
+  {
+    "name": "egg7",
+    "x": 7,
+    "y": 30
+  },
+  {
+    "name": "mcboots",
+    "x": 8,
+    "y": 46
+  },
+  {
+    "name": "xpbooster",
+    "x": 2,
+    "y": 27
+  },
+  {
+    "name": "intbelt",
+    "x": 12,
+    "y": 3
+  },
+  {
+    "name": "holidayspirit",
+    "x": 2,
+    "y": 9
+  },
+  {
+    "name": "btusk",
+    "x": 4,
+    "y": 52
+  },
+  {
+    "name": "tshirt6",
+    "x": 8,
+    "y": 38
+  },
+  {
+    "name": "partyhat",
+    "x": 11,
+    "y": 0
+  },
+  {
+    "name": "stick",
+    "x": 4,
+    "y": 26
+  },
+  {
+    "name": "skill_pheal",
+    "x": 1,
+    "y": 4
+  },
+  {
+    "name": "frogt",
+    "x": 8,
+    "y": 50
+  },
+  {
+    "name": "shade_earring",
+    "x": 5,
+    "y": 17
+  },
+  {
+    "name": "sstinger",
+    "x": 9,
+    "y": 51
+  },
+  {
+    "name": "dstones",
+    "x": 6,
+    "y": 51
+  },
+  {
+    "name": "mshield",
+    "x": 4,
+    "y": 1
+  },
+  {
+    "name": "firebow_r",
+    "x": 2,
+    "y": 58
+  },
+  {
+    "name": "run_eval4",
+    "x": 12,
+    "y": 10
+  },
+  {
+    "name": "elixirvit0",
+    "x": 0,
+    "y": 27
+  },
+  {
+    "name": "elixirvit1",
+    "x": 0,
+    "y": 28
+  },
+  {
+    "name": "elixirvit2",
+    "x": 1,
+    "y": 28
+  },
+  {
+    "name": "skill_energize",
+    "x": 6,
+    "y": 0
+  },
+  {
+    "name": "helmet20",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "xshot",
+    "x": 1,
+    "y": 22
+  },
+  {
+    "name": "elixirstr0",
+    "x": 2,
+    "y": 28
+  },
+  {
+    "name": "elixirstr1",
+    "x": 3,
+    "y": 28
+  },
+  {
+    "name": "elixirstr2",
+    "x": 4,
+    "y": 28
+  },
+  {
+    "name": "gift0",
+    "x": 1,
+    "y": 32
+  },
+  {
+    "name": "essenceofether",
+    "x": 0,
+    "y": 33
+  },
+  {
+    "name": "essenceofpower",
+    "x": 14,
+    "y": 34
+  },
+  {
+    "name": "pstem",
+    "x": 11,
+    "y": 51
+  },
+  {
+    "name": "dragondagger",
+    "x": 10,
+    "y": 7
+  },
+  {
+    "name": "platinumingot",
+    "x": 4,
+    "y": 35
+  },
+  {
+    "name": "wand",
+    "x": 14,
+    "y": 58
+  },
+  {
+    "name": "rapier",
+    "x": 11,
+    "y": 7
+  },
+  {
+    "name": "wbreeches",
+    "x": 0,
+    "y": 45
+  },
+  {
+    "name": "ink",
+    "x": 14,
+    "y": 50
+  },
+  {
+    "name": "strring",
+    "x": 0,
+    "y": 16
+  },
+  {
+    "name": "hpotx",
+    "x": 12,
+    "y": 21
+  },
+  {
+    "name": "skill_abuff",
+    "x": 5,
+    "y": 3
+  },
+  {
+    "name": "firecrackers",
+    "x": 10,
+    "y": 39
+  },
+  {
+    "name": "mmarmor",
+    "x": 4,
+    "y": 43
+  },
+  {
+    "name": "standx_texture",
+    "x": 0,
+    "y": 36
+  },
+  {
+    "name": "lotusf",
+    "x": 7,
+    "y": 50
+  },
+  {
+    "name": "ukey",
+    "x": 3,
+    "y": 59
+  },
+  {
+    "name": "mmhat",
+    "x": 4,
+    "y": 42
+  },
+  {
+    "name": "armorscroll",
+    "x": 12,
+    "y": 41
+  },
+  {
+    "name": "xshotted",
+    "x": 3,
+    "y": 22
+  },
+  {
+    "name": "testv2",
+    "x": 11,
+    "y": 17
+  },
+  {
+    "name": "starkillers",
+    "x": 6,
+    "y": 4
+  },
+  {
+    "name": "helmet",
+    "x": 2,
+    "y": 0
+  },
+  {
+    "name": "xmasshoes",
+    "x": 10,
+    "y": 29
+  },
+  {
+    "name": "pyjamas",
+    "x": 13,
+    "y": 30
+  },
+  {
+    "name": "mrarmor",
+    "x": 7,
+    "y": 43
+  },
+  {
+    "name": "goldenegg",
+    "x": 9,
+    "y": 30
+  },
+  {
+    "name": "travel",
+    "x": 7,
+    "y": 6
+  },
+  {
+    "name": "wshield",
+    "x": 7,
+    "y": 12
+  },
+  {
+    "name": "skill_track",
+    "x": 2,
+    "y": 3
+  },
+  {
+    "name": "shade20_cape",
+    "x": 4,
+    "y": 6
+  },
+  {
+    "name": "chry",
+    "x": 0,
+    "y": 1
+  },
+  {
+    "name": "phelmet",
+    "x": 11,
+    "y": 29
+  },
+  {
+    "name": "ftrinket",
+    "x": 3,
+    "y": 32
+  },
+  {
+    "name": "inventory",
+    "x": 6,
+    "y": 6
+  },
+  {
+    "name": "cosmo3",
+    "x": 3,
+    "y": 39
+  },
+  {
+    "name": "skill_tame",
+    "x": 4,
+    "y": 2
+  },
+  {
+    "name": "solitaire",
+    "x": 5,
+    "y": 16
+  },
+  {
+    "name": "powerglove",
+    "x": 13,
+    "y": 2
+  },
+  {
+    "name": "bkey",
+    "x": 2,
+    "y": 59
+  },
+  {
+    "name": "goldglove",
+    "x": 10,
+    "y": 2
+  },
+  {
+    "name": "skill_dbuff",
+    "x": 4,
+    "y": 4
+  },
+  {
+    "name": "hotchocolate",
+    "x": 11,
+    "y": 21
+  },
+  {
+    "name": "poker",
+    "x": 5,
+    "y": 32
+  },
+  {
+    "name": "shade20_elixir",
+    "x": 0,
+    "y": 27
+  },
+  {
+    "name": "resistancescroll",
+    "x": 13,
+    "y": 41
+  },
+  {
+    "name": "regen_mp",
+    "x": 8,
+    "y": 8
+  },
+  {
+    "name": "hpot0",
+    "x": 4,
+    "y": 21
+  },
+  {
+    "name": "hpot1",
+    "x": 6,
+    "y": 21
+  },
+  {
+    "name": "stop",
+    "x": 9,
+    "y": 6
+  },
+  {
+    "name": "t2bow",
+    "x": 3,
+    "y": 9
+  },
+  {
+    "name": "wbook0",
+    "x": 1,
+    "y": 14
+  },
+  {
+    "name": "wbook1",
+    "x": 3,
+    "y": 14
+  },
+  {
+    "name": "skill_pcoat",
+    "x": 0,
+    "y": 3
+  },
+  {
+    "name": "shade_chest",
+    "x": 6,
+    "y": 1
+  },
+  {
+    "name": "t3bow",
+    "x": 5,
+    "y": 9
+  },
+  {
+    "name": "buff_reflection",
+    "x": 7,
+    "y": 0
+  },
+  {
+    "name": "stoneofxp",
+    "x": 12,
+    "y": 113
+  },
+  {
+    "name": "pinkie_r",
+    "x": 12,
+    "y": 58
+  },
+  {
+    "name": "eears",
+    "x": 2,
+    "y": 42
+  },
+  {
+    "name": "dartgun",
+    "x": 4,
+    "y": 37
+  },
+  {
+    "name": "ecape",
+    "x": 2,
+    "y": 47
+  },
+  {
+    "name": "blade20",
+    "x": 1,
+    "y": 11
+  },
+  {
+    "name": "gloves1",
+    "x": 3,
+    "y": 2
+  },
+  {
+    "name": "smoke",
+    "x": 10,
+    "y": 21
+  },
+  {
+    "name": "mpgloves",
+    "x": 5,
+    "y": 44
+  },
+  {
+    "name": "coat",
+    "x": 2,
+    "y": 1
+  },
+  {
+    "name": "tristone",
+    "x": 1,
+    "y": 16
+  },
+  {
+    "name": "beewings",
+    "x": 4,
+    "y": 50
+  },
+  {
+    "name": "ring120",
+    "x": 0,
+    "y": 9
+  },
+  {
+    "name": "spearofthedead",
+    "x": 13,
+    "y": 7
+  },
+  {
+    "name": "coal",
+    "x": 9,
+    "y": 25
+  },
+  {
+    "name": "bronzeingot",
+    "x": 2,
+    "y": 35
+  },
+  {
+    "name": "xarmor",
+    "x": 5,
+    "y": 1
+  },
+  {
+    "name": "bow4",
+    "x": 10,
+    "y": 9
+  },
+  {
+    "name": "elixir20",
+    "x": 4,
+    "y": 13
+  },
+  {
+    "name": "felixir",
+    "x": 15,
+    "y": 31
+  },
+  {
+    "name": "mwgloves",
+    "x": 3,
+    "y": 44
+  },
+  {
+    "name": "left",
+    "x": 13,
+    "y": 6
+  },
+  {
+    "name": "buff_luck",
+    "x": 0,
+    "y": 9
+  },
+  {
+    "name": "strearring",
+    "x": 6,
+    "y": 17
+  },
+  {
+    "name": "shoes",
+    "x": 2,
+    "y": 5
+  },
+  {
+    "name": "darktristone",
+    "x": 3,
+    "y": 16
+  },
+  {
+    "name": "networkcard",
+    "x": 1,
+    "y": 36
+  },
+  {
+    "name": "use_town",
+    "x": 0,
+    "y": 6
+  },
+  {
+    "name": "shade_helmet",
+    "x": 0,
+    "y": 31
+  },
+  {
+    "name": "wcap",
+    "x": 0,
+    "y": 42
+  },
+  {
+    "name": "elixirdex1",
+    "x": 9,
+    "y": 28
+  },
+  {
+    "name": "confetti",
+    "x": 6,
+    "y": 32
+  },
+  {
+    "name": "swifty",
+    "x": 7,
+    "y": 55
+  },
+  {
+    "name": "bandages",
+    "x": 3,
+    "y": 51
+  },
+  {
+    "name": "shade_shoes",
+    "x": 3,
+    "y": 31
+  },
+  {
+    "name": "regen_hp",
+    "x": 8,
+    "y": 7
+  },
+  {
+    "name": "lostearring",
+    "x": 4,
+    "y": 25
+  },
+  {
+    "name": "ancientcomputer",
+    "x": 0,
+    "y": 26
+  },
+  {
+    "name": "mmpants",
+    "x": 4,
+    "y": 45
+  },
+  {
+    "name": "mmgloves",
+    "x": 4,
+    "y": 44
+  },
+  {
+    "name": "frostbow",
+    "x": 12,
+    "y": 9
+  },
+  {
+    "name": "skill_blink",
+    "x": 3,
+    "y": 0
+  },
+  {
+    "name": "darktristone_a",
+    "x": 4,
+    "y": 16
+  },
+  {
+    "name": "snippet",
+    "x": 2,
+    "y": 10
+  },
+  {
+    "name": "bunnyelixir",
+    "x": 15,
+    "y": 30
+  },
+  {
+    "name": "skill_taunt",
+    "x": 1,
+    "y": 1
+  },
+  {
+    "name": "shard20",
+    "x": 6,
+    "y": 6
+  },
+  {
+    "name": "puppyer",
+    "x": 14,
+    "y": 33
+  },
+  {
+    "name": "bowofthedead",
+    "x": 15,
+    "y": 9
+  },
+  {
+    "name": "mistletoe",
+    "x": 5,
+    "y": 29
+  },
+  {
+    "name": "character",
+    "x": 3,
+    "y": 6
+  },
+  {
+    "name": "gum",
+    "x": 9,
+    "y": 36
+  },
+  {
+    "name": "shade_offhand",
+    "x": 6,
+    "y": 31
+  },
+  {
+    "name": "shade_ring",
+    "x": 13,
+    "y": 31
+  },
+  {
+    "name": "hpamulet",
+    "x": 4,
+    "y": 19
+  },
+  {
+    "name": "shoes1",
+    "x": 3,
+    "y": 5
+  },
+  {
+    "name": "cscale",
+    "x": 4,
+    "y": 32
+  },
+  {
+    "name": "mrhood",
+    "x": 7,
+    "y": 42
+  },
+  {
+    "name": "bcandle",
+    "x": 0,
+    "y": 52
+  },
+  {
+    "name": "shade_seal",
+    "x": 11,
+    "y": 9
+  },
+  {
+    "name": "trinkets",
+    "x": 2,
+    "y": 52
+  },
+  {
+    "name": "stoneofgold",
+    "x": 11,
+    "y": 114
+  },
+  {
+    "name": "bwing",
+    "x": 7,
+    "y": 51
+  },
+  {
+    "name": "bfang",
+    "x": 8,
+    "y": 51
+  },
+  {
+    "name": "sword",
+    "x": 2,
+    "y": 7
+  },
+  {
+    "name": "frozenstone",
+    "x": 8,
+    "y": 26
+  },
+  {
+    "name": "xmassweater",
+    "x": 7,
+    "y": 29
+  },
+  {
+    "name": "cxjar",
+    "x": 2,
+    "y": 1
+  },
+  {
+    "name": "redorb",
+    "x": 10,
+    "y": 28
+  },
+  {
+    "name": "pleather",
+    "x": 5,
+    "y": 50
+  },
+  {
+    "name": "mysterybox",
+    "x": 2,
+    "y": 26
+  },
+  {
+    "name": "monstertoken",
+    "x": 0,
+    "y": 38
+  },
+  {
+    "name": "mpcostscroll",
+    "x": 6,
+    "y": 41
+  },
+  {
+    "name": "amulet",
+    "x": 14,
+    "y": 1
+  },
+  {
+    "name": "strscroll",
+    "x": 11,
+    "y": 23
+  },
+  {
+    "name": "candycanesword",
+    "x": 7,
+    "y": 8
+  },
+  {
+    "name": "ectoplasm",
+    "x": 13,
+    "y": 51
+  },
+  {
+    "name": "gem3",
+    "x": 14,
+    "y": 40
+  },
+  {
+    "name": "gem2",
+    "x": 13,
+    "y": 40
+  },
+  {
+    "name": "gem1",
+    "x": 10,
+    "y": 25
+  },
+  {
+    "name": "gem0",
+    "x": 13,
+    "y": 25
+  },
+  {
+    "name": "watercore",
+    "x": 12,
+    "y": 51
+  },
+  {
+    "name": "shade_uweapon",
+    "x": 5,
+    "y": 8
+  },
+  {
+    "name": "talkingskull",
+    "x": 14,
+    "y": 38
+  },
+  {
+    "name": "supermittens",
+    "x": 2,
+    "y": 33
+  },
+  {
+    "name": "shrine2",
+    "x": 720,
+    "y": 128
+  },
+  {
+    "name": "xpscroll",
+    "x": 9,
+    "y": 41
+  },
+  {
+    "name": "wattire",
+    "x": 0,
+    "y": 43
+  },
+  {
+    "name": "luckbooster",
+    "x": 6,
+    "y": 27
+  },
+  {
+    "name": "xbox",
+    "x": 3,
+    "y": 33
+  },
+  {
+    "name": "elixirdex2",
+    "x": 10,
+    "y": 28
+  },
+  {
+    "name": "elixirdex0",
+    "x": 8,
+    "y": 28
+  },
+  {
+    "name": "ornamentstaff",
+    "x": 6,
+    "y": 11
+  },
+  {
+    "name": "shade_gloves",
+    "x": 10,
+    "y": 2
+  },
+  {
+    "name": "xboots",
+    "x": 5,
+    "y": 5
+  },
+  {
+    "name": "lspores",
+    "x": 1,
+    "y": 52
+  },
+  {
+    "name": "claw",
+    "x": 1,
+    "y": 11
+  },
+  {
+    "name": "use_mp",
+    "x": 2,
+    "y": 8
+  },
+  {
+    "name": "lantern",
+    "x": 9,
+    "y": 12
+  },
+  {
+    "name": "bottleofxp",
+    "x": 15,
+    "y": 35
+  },
+  {
+    "name": "shade_offering",
+    "x": 6,
+    "y": 26
+  },
+  {
+    "name": "right",
+    "x": 14,
+    "y": 6
+  },
+  {
+    "name": "skill_sheal",
+    "x": 1,
+    "y": 11
+  },
+  {
+    "name": "mrnhat",
+    "x": 6,
+    "y": 42
+  },
+  {
+    "name": "ijx",
+    "x": 15,
+    "y": 50
+  },
+  {
+    "name": "quiver",
+    "x": 0,
+    "y": 13
+  },
+  {
+    "name": "candypop",
+    "x": 11,
+    "y": 39
+  },
+  {
+    "name": "skill_revive",
+    "x": 3,
+    "y": 4
+  },
+  {
+    "name": "tarot",
+    "x": 11,
+    "y": 24
+  },
+  {
+    "name": "harmor",
+    "x": 4,
+    "y": 1
+  },
+  {
+    "name": "gloves20",
+    "x": 2,
+    "y": 5
+  },
+  {
+    "name": "oozingterror",
+    "x": 6,
+    "y": 10
+  },
+  {
+    "name": "blade",
+    "x": 0,
+    "y": 7
+  },
+  {
+    "name": "reflectionscroll",
+    "x": 7,
+    "y": 23
+  },
+  {
+    "name": "fierygloves",
+    "x": 7,
+    "y": 2
+  },
+  {
+    "name": "angelwings",
+    "x": 8,
+    "y": 6
+  },
+  {
+    "name": "troll",
+    "x": 1,
+    "y": 38
+  },
+  {
+    "name": "fsword",
+    "x": 5,
+    "y": 7
+  },
+  {
+    "name": "rabbitsfoot",
+    "x": 14,
+    "y": 30
+  },
+  {
+    "name": "elixirint0",
+    "x": 5,
+    "y": 28
+  },
+  {
+    "name": "woodensword",
+    "x": 10,
+    "y": 8
+  },
+  {
+    "name": "xhelmet",
+    "x": 5,
+    "y": 0
+  },
+  {
+    "name": "luckscroll",
+    "x": 11,
+    "y": 41
+  },
+  {
+    "name": "firebow",
+    "x": 11,
+    "y": 9
+  },
+  {
+    "name": "t2fist",
+    "x": 2,
+    "y": 11
+  },
+  {
+    "name": "slimestaff",
+    "x": 2,
+    "y": 55
+  },
+  {
+    "name": "spidersilk",
+    "x": 8,
+    "y": 39
+  },
+  {
+    "name": "tracker",
+    "x": 11,
+    "y": 40
+  },
+  {
+    "name": "esc",
+    "x": 8,
+    "y": 6
+  },
+  {
+    "name": "smush",
+    "x": 0,
+    "y": 51
+  },
+  {
+    "name": "mrngloves",
+    "x": 6,
+    "y": 44
+  },
+  {
+    "name": "shade_pants",
+    "x": 2,
+    "y": 31
+  },
+  {
+    "name": "notverified",
+    "x": 3,
+    "y": 9
+  },
+  {
+    "name": "essenceofthunder",
+    "x": 12,
+    "y": 34
+  },
+  {
+    "name": "electronics",
+    "x": 4,
+    "y": 36
+  },
+  {
+    "name": "skill_curse",
+    "x": 0,
+    "y": 4
+  },
+  {
+    "name": "skill_teleport",
+    "x": 4,
+    "y": 0
+  },
+  {
+    "name": "mwhelmet",
+    "x": 3,
+    "y": 42
+  },
+  {
+    "name": "vitearring",
+    "x": 0,
+    "y": 17
+  },
+  {
+    "name": "buff_speed",
+    "x": 1,
+    "y": 9
+  },
+  {
+    "name": "manastealscroll",
+    "x": 2,
+    "y": 41
+  },
+  {
+    "name": "cclaw",
+    "x": 3,
+    "y": 55
+  },
+  {
+    "name": "frequencyscroll",
+    "x": 5,
+    "y": 41
+  },
+  {
+    "name": "skill_burst",
+    "x": 1,
+    "y": 0
+  },
+  {
+    "name": "epyjamas",
+    "x": 2,
+    "y": 43
+  },
+  {
+    "name": "whiteegg",
+    "x": 1,
+    "y": 50
+  },
+  {
+    "name": "gbow",
+    "x": 10,
+    "y": 58
+  },
+  {
+    "name": "chest3",
+    "x": 9,
+    "y": 114
+  },
+  {
+    "name": "chest2",
+    "x": 9,
+    "y": 113
+  },
+  {
+    "name": "chest1",
+    "x": 8,
+    "y": 113
+  },
+  {
+    "name": "chest0",
+    "x": 11,
+    "y": 112
+  },
+  {
+    "name": "gphelmet",
+    "x": 15,
+    "y": 29
+  },
+  {
+    "name": "cocoon",
+    "x": 4,
+    "y": 51
+  },
+  {
+    "name": "essenceofdesire",
+    "x": 13,
+    "y": 34
+  },
+  {
+    "name": "star20",
+    "x": 6,
+    "y": 7
+  },
+  {
+    "name": "xmaspants",
+    "x": 9,
+    "y": 29
+  },
+  {
+    "name": "stone",
+    "x": 672,
+    "y": 104
+  },
+  {
+    "name": "tshirt4",
+    "x": 6,
+    "y": 38
+  },
+  {
+    "name": "stinger",
+    "x": 4,
+    "y": 55
+  },
+  {
+    "name": "weaponbox",
+    "x": 3,
+    "y": 26
+  },
+  {
+    "name": "molesteeth",
+    "x": 5,
+    "y": 17
+  },
+  {
+    "name": "run_snippet5",
+    "x": 13,
+    "y": 10
+  },
+  {
+    "name": "citizens",
+    "x": 6,
+    "y": 9
+  },
+  {
+    "name": "shield",
+    "x": 0,
+    "y": 12
+  },
+  {
+    "name": "mace",
+    "x": 14,
+    "y": 11
+  },
+  {
+    "name": "espresso",
+    "x": 11,
+    "y": 36
+  },
+  {
+    "name": "shade_exchange",
+    "x": 1,
+    "y": 35
+  },
+  {
+    "name": "dreturnscroll",
+    "x": 4,
+    "y": 41
+  },
+  {
+    "name": "shade_lock",
+    "x": 1,
+    "y": 37
+  },
+  {
+    "name": "mpshoes",
+    "x": 5,
+    "y": 46
+  },
+  {
+    "name": "goldenpowerglove",
+    "x": 15,
+    "y": 2
+  },
+  {
+    "name": "skill_5shot",
+    "x": 2,
+    "y": 2
+  },
+  {
+    "name": "essenceoflight",
+    "x": 7,
+    "y": 34
+  },
+  {
+    "name": "snakefang",
+    "x": 9,
+    "y": 50
+  },
+  {
+    "name": "luckbooster_a",
+    "x": 7,
+    "y": 27
+  },
+  {
+    "name": "harbringer_r",
+    "x": 9,
+    "y": 58
+  },
+  {
+    "name": "mcarmor",
+    "x": 8,
+    "y": 43
+  },
+  {
+    "name": "intearring",
+    "x": 7,
+    "y": 17
+  },
+  {
+    "name": "vitscroll",
+    "x": 6,
+    "y": 23
+  },
+  {
+    "name": "dagger",
+    "x": 6,
+    "y": 7
+  },
+  {
+    "name": "skill_hardshell",
+    "x": 4,
+    "y": 1
+  },
+  {
+    "name": "amuletofm",
+    "x": 14,
+    "y": 19
+  },
+  {
+    "name": "pvptoken",
+    "x": 8,
+    "y": 32
+  },
+  {
+    "name": "skill_strength",
+    "x": 0,
+    "y": 1
+  },
+  {
+    "name": "carrot",
+    "x": 1,
+    "y": 51
+  },
+  {
+    "name": "eslippers",
+    "x": 2,
+    "y": 46
+  },
+  {
+    "name": "orbofstr",
+    "x": 0,
+    "y": 48
+  },
+  {
+    "name": "down",
+    "x": 12,
+    "y": 6
+  },
+  {
+    "name": "cshell",
+    "x": 15,
+    "y": 51
+  },
+  {
+    "name": "rpiercingscroll",
+    "x": 15,
+    "y": 41
+  },
+  {
+    "name": "blueorb",
+    "x": 15,
+    "y": 28
+  },
+  {
+    "name": "skill_pstrike",
+    "x": 6,
+    "y": 3
+  },
+  {
+    "name": "redenvelopev3",
+    "x": 15,
+    "y": 39
+  },
+  {
+    "name": "spores",
+    "x": 6,
+    "y": 50
+  },
+  {
+    "name": "ring",
+    "x": 12,
+    "y": 15
+  },
+  {
+    "name": "earring220",
+    "x": 1,
+    "y": 6
+  },
+  {
+    "name": "skill_piercingshot",
+    "x": 7,
+    "y": 2
+  },
+  {
+    "name": "frostbow_r",
+    "x": 6,
+    "y": 58
+  },
+  {
+    "name": "belt20",
+    "x": 3,
+    "y": 7
+  },
+  {
+    "name": "dragonarmor",
+    "x": 14,
+    "y": 1
+  },
+  {
+    "name": "shoes20",
+    "x": 4,
+    "y": 5
+  },
+  {
+    "name": "skill_invis_active",
+    "x": 0,
+    "y": 1
+  },
+  {
+    "name": "skill_phaseout",
+    "x": 7,
+    "y": 4
+  },
+  {
+    "name": "shade_orb",
+    "x": 10,
+    "y": 28
+  },
+  {
+    "name": "shells",
+    "x": 3,
+    "y": 25
+  },
+  {
+    "name": "skill_stack",
+    "x": 6,
+    "y": 3
+  },
+  {
+    "name": "interact",
+    "x": 5,
+    "y": 6
+  },
+  {
+    "name": "vitring",
+    "x": 13,
+    "y": 15
+  },
+  {
+    "name": "orbg",
+    "x": 4,
+    "y": 48
+  },
+  {
+    "name": "cstand_texture",
+    "x": 0,
+    "y": 72
+  },
+  {
+    "name": "maceofthedead",
+    "x": 15,
+    "y": 11
+  },
+  {
+    "name": "attack",
+    "x": 1,
+    "y": 6
+  },
+  {
+    "name": "coat1",
+    "x": 3,
+    "y": 1
+  },
+  {
+    "name": "stop_g",
+    "x": 10,
+    "y": 6
+  },
+  {
+    "name": "orbofint",
+    "x": 2,
+    "y": 48
+  },
+  {
+    "name": "cosmo1",
+    "x": 1,
+    "y": 39
+  },
+  {
+    "name": "cosmo0",
+    "x": 0,
+    "y": 39
+  },
+  {
+    "name": "froststaff",
+    "x": 8,
+    "y": 10
+  },
+  {
+    "name": "gslime",
+    "x": 2,
+    "y": 50
+  },
+  {
+    "name": "cosmo4",
+    "x": 4,
+    "y": 39
+  },
+  {
+    "name": "carrotsword_c",
+    "x": 0,
+    "y": 58
+  },
+  {
+    "name": "skill_absorbsins",
+    "x": 6,
+    "y": 4
+  },
+  {
+    "name": "t2intamulet",
+    "x": 12,
+    "y": 19
+  },
+  {
+    "name": "mparmor",
+    "x": 5,
+    "y": 43
+  },
+  {
+    "name": "mchat",
+    "x": 8,
+    "y": 42
+  },
+  {
+    "name": "drapes",
+    "x": 5,
+    "y": 52
+  },
+  {
+    "name": "mppants",
+    "x": 5,
+    "y": 45
+  },
+  {
+    "name": "heal",
+    "x": 2,
+    "y": 6
+  },
+  {
+    "name": "xmashat",
+    "x": 6,
+    "y": 29
+  },
+  {
+    "name": "apiercingscroll",
+    "x": 14,
+    "y": 41
+  },
+  {
+    "name": "x8",
+    "x": 12,
+    "y": 33
+  },
+  {
+    "name": "froststaff_r",
+    "x": 4,
+    "y": 58
+  },
+  {
+    "name": "xpants",
+    "x": 5,
+    "y": 4
+  },
+  {
+    "name": "x2",
+    "x": 6,
+    "y": 33
+  },
+  {
+    "name": "x3",
+    "x": 7,
+    "y": 33
+  },
+  {
+    "name": "x0",
+    "x": 4,
+    "y": 33
+  },
+  {
+    "name": "x1",
+    "x": 5,
+    "y": 33
+  },
+  {
+    "name": "x6",
+    "x": 10,
+    "y": 33
+  },
+  {
+    "name": "x7",
+    "x": 11,
+    "y": 33
+  },
+  {
+    "name": "x4",
+    "x": 8,
+    "y": 33
+  },
+  {
+    "name": "x5",
+    "x": 9,
+    "y": 33
+  },
+  {
+    "name": "hbow",
+    "x": 5,
+    "y": 55
+  },
+  {
+    "name": "essenceoffrost",
+    "x": 10,
+    "y": 34
+  },
+  {
+    "name": "skill_invis",
+    "x": 1,
+    "y": 3
+  },
+  {
+    "name": "run_eval1",
+    "x": 6,
+    "y": 10
+  },
+  {
+    "name": "run_eval0",
+    "x": 4,
+    "y": 10
+  },
+  {
+    "name": "run_eval3",
+    "x": 10,
+    "y": 10
+  },
+  {
+    "name": "run_eval2",
+    "x": 8,
+    "y": 10
+  },
+  {
+    "name": "run_eval5",
+    "x": 14,
+    "y": 10
+  },
+  {
+    "name": "speedscroll",
+    "x": 0,
+    "y": 41
+  },
+  {
+    "name": "staffofthedead",
+    "x": 15,
+    "y": 10
+  },
+  {
+    "name": "mushroomstaff",
+    "x": 6,
+    "y": 55
+  },
+  {
+    "name": "cscroll0",
+    "x": 0,
+    "y": 24
+  },
+  {
+    "name": "cscroll1",
+    "x": 15,
+    "y": 23
+  },
+  {
+    "name": "cscroll2",
+    "x": 1,
+    "y": 24
+  },
+  {
+    "name": "fireblade",
+    "x": 1,
+    "y": 8
+  },
+  {
+    "name": "intamulet",
+    "x": 9,
+    "y": 19
+  },
+  {
+    "name": "basher",
+    "x": 5,
+    "y": 10
+  },
+  {
+    "name": "apologybox",
+    "x": 6,
+    "y": 39
+  },
+  {
+    "name": "charmer",
+    "x": 12,
+    "y": 39
+  },
+  {
+    "name": "cake",
+    "x": 12,
+    "y": 28
+  },
+  {
+    "name": "santasbelt",
+    "x": 3,
+    "y": 3
+  },
+  {
+    "name": "brownegg",
+    "x": 0,
+    "y": 50
+  },
+  {
+    "name": "shade_cring",
+    "x": 7,
+    "y": 19
+  },
+  {
+    "name": "skill_3shot",
+    "x": 1,
+    "y": 2
+  },
+  {
+    "name": "firestaff",
+    "x": 3,
+    "y": 10
+  },
+  {
+    "name": "egg8",
+    "x": 8,
+    "y": 30
+  },
+  {
+    "name": "skill_sacrifice",
+    "x": 2,
+    "y": 4
+  },
+  {
+    "name": "mpotx",
+    "x": 13,
+    "y": 21
+  },
+  {
+    "name": "skill_mentalburst",
+    "x": 9,
+    "y": 3
+  },
+  {
+    "name": "rfangs",
+    "x": 3,
+    "y": 52
+  },
+  {
+    "name": "fury",
+    "x": 0,
+    "y": 0
+  },
+  {
+    "name": "egg0",
+    "x": 0,
+    "y": 30
+  },
+  {
+    "name": "egg3",
+    "x": 3,
+    "y": 30
+  },
+  {
+    "name": "egg2",
+    "x": 2,
+    "y": 30
+  },
+  {
+    "name": "egg5",
+    "x": 5,
+    "y": 30
+  },
+  {
+    "name": "egg4",
+    "x": 4,
+    "y": 30
+  },
+  {
+    "name": "goldnugget",
+    "x": 6,
+    "y": 35
+  },
+  {
+    "name": "egg6",
+    "x": 6,
+    "y": 30
+  },
+  {
+    "name": "dexscroll",
+    "x": 9,
+    "y": 23
+  },
+  {
+    "name": "gift1",
+    "x": 0,
+    "y": 32
+  },
+  {
+    "name": "fullguard",
+    "x": 4,
+    "y": 12
+  },
+  {
+    "name": "mrnboots",
+    "x": 6,
+    "y": 46
+  },
+  {
+    "name": "orbofsc",
+    "x": 1,
+    "y": 29
+  },
+  {
+    "name": "crabclaw",
+    "x": 3,
+    "y": 50
+  },
+  {
+    "name": "shade_gold",
+    "x": 8,
+    "y": 35
+  },
+  {
+    "name": "withdrawal",
+    "x": 4,
+    "y": 9
+  },
+  {
+    "name": "orbofvit",
+    "x": 3,
+    "y": 48
+  },
+  {
+    "name": "mcape",
+    "x": 11,
+    "y": 1
+  },
+  {
+    "name": "shade_unlock",
+    "x": 8,
+    "y": 6
+  },
+  {
+    "name": "bfur",
+    "x": 2,
+    "y": 51
+  },
+  {
+    "name": "essenceoflife",
+    "x": 14,
+    "y": 34
+  },
+  {
+    "name": "wbasher",
+    "x": 13,
+    "y": 11
+  },
+  {
+    "name": "pinkie",
+    "x": 13,
+    "y": 58
+  },
+  {
+    "name": "xgloves",
+    "x": 5,
+    "y": 2
+  },
+  {
+    "name": "ascale",
+    "x": 12,
+    "y": 50
+  },
+  {
+    "name": "t2quiver",
+    "x": 1,
+    "y": 13
+  },
+  {
+    "name": "shrine",
+    "x": 720,
+    "y": 304
+  },
+  {
+    "name": "gemfragment",
+    "x": 7,
+    "y": 25
+  },
+  {
+    "name": "skill_scare",
+    "x": 13,
+    "y": 38
+  },
+  {
+    "name": "test",
+    "x": 9,
+    "y": 17
+  },
+  {
+    "name": "mrnpants",
+    "x": 6,
+    "y": 45
+  },
+  {
+    "name": "stand0_texture",
+    "x": 52,
+    "y": 0
+  },
+  {
+    "name": "tshirt88",
+    "x": 7,
+    "y": 38
+  },
+  {
+    "name": "tristone_a",
+    "x": 2,
+    "y": 16
+  },
+  {
+    "name": "stealthcape",
+    "x": 1,
+    "y": 6
+  },
+  {
+    "name": "elixirint2",
+    "x": 7,
+    "y": 28
+  },
+  {
+    "name": "skill_cburst",
+    "x": 2,
+    "y": 0
+  },
+  {
+    "name": "skill_agitate",
+    "x": 7,
+    "y": 1
+  },
+  {
+    "name": "elixirint1",
+    "x": 6,
+    "y": 28
+  },
+  {
+    "name": "mpot1",
+    "x": 7,
+    "y": 21
+  },
+  {
+    "name": "mpot0",
+    "x": 5,
+    "y": 21
+  },
+  {
+    "name": "wblade",
+    "x": 8,
+    "y": 8
+  },
+  {
+    "name": "stramulet",
+    "x": 8,
+    "y": 19
+  },
+  {
+    "name": "quest_monsterhunt",
+    "x": 7,
+    "y": 9
+  },
+  {
+    "name": "shadowstone",
+    "x": 14,
+    "y": 28
+  },
+  {
+    "name": "tshirt3",
+    "x": 5,
+    "y": 38
+  },
+  {
+    "name": "stone20",
+    "x": 5,
+    "y": 5
+  },
+  {
+    "name": "axe3",
+    "x": 11,
+    "y": 10
+  },
+  {
+    "name": "redenvelopev2",
+    "x": 9,
+    "y": 39
+  },
+  {
+    "name": "skill_throw",
+    "x": 1,
+    "y": 5
+  },
+  {
+    "name": "mwboots",
+    "x": 3,
+    "y": 46
+  },
+  {
+    "name": "bugbountybox",
+    "x": 5,
+    "y": 39
+  },
+  {
+    "name": "ghatb",
+    "x": 3,
+    "y": 0
+  },
+  {
+    "name": "cosmo2",
+    "x": 2,
+    "y": 39
+  },
+  {
+    "name": "redenvelope",
+    "x": 13,
+    "y": 33
+  },
+  {
+    "name": "pants20",
+    "x": 3,
+    "y": 5
+  },
+  {
+    "name": "platinumnugget",
+    "x": 7,
+    "y": 35
+  },
+  {
+    "name": "skill_huntersmark",
+    "x": 6,
+    "y": 2
+  },
+  {
+    "name": "svenom",
+    "x": 10,
+    "y": 51
+  },
+  {
+    "name": "suckerpunch",
+    "x": 11,
+    "y": 15
+  },
+  {
+    "name": "tshirt2",
+    "x": 4,
+    "y": 38
+  },
+  {
+    "name": "ringofluck",
+    "x": 6,
+    "y": 16
+  },
+  {
+    "name": "goldingot",
+    "x": 3,
+    "y": 35
+  },
+  {
+    "name": "standg_texture",
+    "x": 52,
+    "y": 36
+  },
+  {
+    "name": "fclaw_r",
+    "x": 8,
+    "y": 58
+  },
+  {
+    "name": "earring120",
+    "x": 5,
+    "y": 10
+  },
+  {
+    "name": "tshell",
+    "x": 5,
+    "y": 51
+  },
+  {
+    "name": "luckyt",
+    "x": 0,
+    "y": 1
+  },
+  {
+    "name": "skill_quickpunch",
+    "x": 4,
+    "y": 3
+  }
+]

@@ -1,0 +1,44 @@
+﻿div.character
+{
+    display:inline-block;
+    border: 5px solid black;
+    width: 400px;
+    padding: 20px;
+}
+
+div.characterName
+{
+    color: green;
+    font-size: 32px;
+}
+
+div.characterMP
+{
+}
+
+div.characterHP
+{
+
+}
+
+div.characterHPBG 
+{
+    background-color: red;
+    height: 25px;
+}
+
+div.characterMPBG 
+{
+    background-color: blue;
+    height: 25px;
+}
+
+div.characterLocation
+{
+
+}
+
+div.commands
+{
+    margin-top: 50px;
+}
