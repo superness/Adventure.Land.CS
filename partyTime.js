@@ -1,6 +1,7 @@
 let partyThrower = "Foaly"
 
 // Circle the party thrower
+// Thanks @Matin
 function circleCoords(x=0, y=0, radius=100){
     let targetPos = {x:x,y:y}
     let theta = Math.atan2(character.y - targetPos.y, character.x - targetPos.x) + (180/Math.PI)
@@ -46,6 +47,7 @@ function throwConfetti(){
 }
 
 // Laser show \ make it rain
+// Thanks @Rising
 async function laserAndGoldShow(){
 	const potential_targets = Object.values(parent.entities)
 	  .filter(e => e && is_character(e) && distance(character,e) < G.skills.mluck.range)
@@ -81,6 +83,7 @@ function potions(){
 }
 
 // Join give aways automatically
+// Thanks @SpadarFaar
 function joinGiveAways(){
 	for(let id in parent.entities)
     {
