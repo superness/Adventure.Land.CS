@@ -45,31 +45,24 @@ function throwConfetti(){
 	parent.socket.emit("throw", {num: confettiItemIdx, x: character.x, y: character.y});
 }
 
-// Laser show
-function laserShow(){
-	// Select all valid nearby characters to mluck
+// Laser show \ make it rain
+async function laserAndGoldShow(){
 	const potential_targets = Object.values(parent.entities)
 	  .filter(e => e && is_character(e) && distance(character,e) < G.skills.mluck.range)
-
-	// Randomly choose one
-	const target = potential_targets[Math.floor(Math.random()*potential_targets.length)]
-
-	// Excellent
-	use("mluck", target.name)
-}
-
-// Send 1 gold to someone around us
-function makeItRain(){
-	// Select all valid nearby characters to mluck
-	const potential_targets = Object.values(parent.entities)
-	  .filter(e => e && is_character(e) && distance(character,e) < G.skills.mluck.range)
-
-	// Randomly choose one
-	const target = potential_targets[Math.floor(Math.random()*potential_targets.length)]
-
-	// Excellent
-	send_gold(target.name, 1)
-}
+	  .map(c => c.name)
+	  .sort((a,b) => 0.5-Math.random())
+	for(let i=0;i<potential_targets.length;i++){
+	  const target_name = potential_targets[i]
+	  if(i%2 === 0){
+		use("mluck", target_name)
+	  }else{
+		send_gold(target_name,1)
+	  }
+	  const delay = 200
+	  await new Promise(r => setTimeout(r, delay));
+	}
+	laserAndGoldShow()
+  }
 
 // Mana potions to keep the laser show running
 function potions(){
@@ -86,10 +79,34 @@ function potions(){
 		buy("mpot0")
 	}
 }
-  
-setInterval(makeItRain,1000)
-setInterval(laserShow,200)
-setInterval(potions,200)
+
+// Join give aways automatically
+function joinGiveAways(){
+	for(let id in parent.entities)
+    {
+        let entity = parent.entities[id];
+        if(entity.id != character.id)
+        {
+            for(let slot_name in entity.slots)
+            {
+                let slot = entity.slots[slot_name];
+                if(slot && slot.giveaway)
+                {
+                    if(!slot.list.includes(character.id))
+                    {
+                        parent.join_giveaway(slot_name,entity.id,slot.rid);
+                    }
+                }
+            }
+        }
+    }
+}
+
+// Start the laser show (async func that calls itself)
+laserAndGoldShow()
+
+setInterval(joinGiveAways, 1000);
+setInterval(potions,120)
 setInterval(circlePartyThrower,120)
 setInterval(poof,5 * 1000)
 setInterval(throwConfetti,3 * 1000) // Confetti animation is a couple seconds don't throw too many
