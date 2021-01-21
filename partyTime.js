@@ -88,8 +88,8 @@ function potions(){
 }
   
 setInterval(makeItRain,1000)
-setInterval(laserShow,120)
-setInterval(potions,120)
+setInterval(laserShow,200)
+setInterval(potions,200)
 setInterval(circlePartyThrower,120)
 setInterval(poof,5 * 1000)
 setInterval(throwConfetti,3 * 1000) // Confetti animation is a couple seconds don't throw too many
