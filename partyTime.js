@@ -1,4 +1,4 @@
-let partyThrower = "Foaly"
+let partyThrower = "MoneyS"
 
 // Circle the party thrower
 // Thanks @Matin
