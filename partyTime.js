@@ -108,7 +108,7 @@ function joinGiveAways(){
 // Start the laser show (async func that calls itself)
 laserAndGoldShow()
 
-setInterval(joinGiveAways, 1000);
+//setInterval(joinGiveAways, 1000);
 setInterval(potions,120)
 setInterval(circlePartyThrower,120)
 setInterval(poof,5 * 1000)
